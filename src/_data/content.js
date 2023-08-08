@@ -1,4 +1,4 @@
-const header = 'Welcome to this wonderful example timeline.';
+const header = 'The Dale Chronicles';
 const footer = 'A footer goes here.';
 const entries = [
   {
@@ -6,7 +6,7 @@ const entries = [
     categories: ['ban'],
     color: 'purple',
     faicon: 'ban',
-    datetime: '2020-04-23 05:37',
+    date: '2020-04-23', //YYYY-MM-DD"
     title: 'Capcom bans CeroBlast, Low Tier God from all events',
     image: {
       link: 'https://dotesports.com/fgc/news/capcom-bans-ceroblast-low-tier-god-from-all-events',
@@ -31,11 +31,11 @@ const entries = [
     categories: ['dox'],
     color: 'black',
     faicon: 'unlock',
-    date: '2020-05-01',
+    date: '2020-11-29',
     title: 'Dale Wilson doxes Trevor Belmont .',
     image: {
-      link: 'https://static.wikia.nocookie.net/castlevania/images/3/3e/Trevor_Belmont_%28animated_series%29_-_06.jpg/revision/latest?cb=20181028200147',
-      src: 'https://static.wikia.nocookie.net/castlevania/images/3/3e/Trevor_Belmont_%28animated_series%29_-_06.jpg/revision/latest?cb=20181028200147',
+      link: 'https://www.youtube.com/@trevorbelmont32',
+      src: 'img/thumbpic/trevorBelemort.png',
       alt: 'Trevor Belmont',
       caption: 'Trevor Belmont!',
     },
@@ -45,27 +45,159 @@ const entries = [
         href: 'https://twitter.com/Trevor__Belmont/status/1332949952666824710',
         linkText: 'Tweet by Trevor Belmont',
       },
+      {
+        href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-%28LTG%29-Dale---Stream-11-28-%281-of-2%29--LWHLH5ihQbE-:6',
+        linkText: 'Archived Live Stream (censored) ',
+      },
     ],
   },
   {
-    id: 'dog',
-    categories: ['dog'],
+    id: 'd29c1de3-a454-488c-8c8d-8dbc15ad18e7',
+    categories: ['dox'],
     color: 'black',
-    faicon: 'dog',
-    datetime: '2021-05-01 23:55',
-	date: '2021-05-01 23:55',
-    title: 'Puppies are great too',
+    faicon: 'unlock',
+    date: '2021-05-22',
+    title: 'Dale Wilson doxes Joon The King.',
     image: {
-      link: 'http://place-puppy.com',
-      src: 'https://place-puppy.com/300x300',
-      alt: 'A placeholder puppy',
-      caption: 'Puppy!',
+      link: 'https://www.youtube.com/@JoonTheKing',
+      src: 'img/thumbpic/Joon_the_King.png',
+      alt: 'Joon the King',
+      caption: 'Joon the King',
     },
-    body: 'Doggo ipsum sub woofer smol wow very biscit aqua doggo pupper dat tungg tho big ol pupper, very jealous pupper mlem heckin angery woofer very jealous pupper. Blep waggy wags long doggo, corgo. Tungg wow such tempt mlem very jealous pupper boofers lotsa pats, snoot smol big ol ruff doge super chub, long doggo heckin good boys and girls h*ck heck. Shoober blop many pats borkf, such treat. Big ol what a nice floof long water shoob wrinkler heck sub woofer, pupper porgo wow very biscit.',
-    links: [
+    body: 'Joon The King alleges in a recent video that hes been doxed and harassed over two years by LowTierGod.',
+	links: [
       {
-        href: 'https://en.wikipedia.org/wiki/Dog',
-        linkText: 'Dog',
+        href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
+        linkText: 'Tweet by Trevor Belmont',
+      },
+      {
+        href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
+        linkText: 'Article by Esports Talk ',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488c-8c8d-8dbc15ad18e7',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'unlock',
+    date: '2021-05-22',
+    title: 'Dale Wilson doxes Slayer WSS.',
+    image: {
+      link: 'https://www.youtube.com/@JoonTheKing',
+      src: 'img/thumbpic/SlayerWSS.png',
+      alt: 'SlayerWSS',
+      caption: '',
+    },
+    body: 'Joon The King alleges in a recent video that hes been doxed and harassed over two years by LowTierGod.',
+	links: [
+      {
+        href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
+        linkText: 'Tweet by Trevor Belmont',
+      },
+      {
+        href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
+        linkText: 'Article by Esports Talk ',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488c-8c8d-8dbc15ad18e7',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'unlock',
+    date: '2023-02-11',
+    title: 'Dale Wilson attempts to have Sallow Dawn terminated from his job and engages in doxing.',
+    image: {
+      link: 'https://www.youtube.com/@SallowDawn',
+      src: 'img/thumbpic/sallow_dawn.png',
+      alt: 'SlayerWSS',
+      caption: '',
+    },
+    body: 'Joon The King alleges in a recent video that hes been doxed and harassed over two years by LowTierGod.',
+	links: [
+      {
+        href: 'https://twitter.com/SallowDawn/status/1605335166938861568',
+        linkText: 'Tweet by Sallow Dawn',
+      },
+      {
+        href: 'https://youtu.be/Z57i9viTRvo?t=113',
+        linkText: 'Article by Esports Talk ',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488c-8c8d-8dbc15ad18e7',
+    categories: ['Content Suppression'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2021-05-22',
+    title: 'Dale Wilson fakes a legal proceeding against Chelka\'s Youtube Channel',
+    image: {
+      link: 'https://www.youtube.com/@JoonTheKing',
+      src: 'img/thumbpic/chelka.png',
+      alt: 'SlayerWSS',
+      caption: '',
+    },
+    body: 'LowTierGod claims to possess court documents with the intention of removing my Chelka\'s Youtube videos. ',
+	// links: [
+  //     {
+  //       href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
+  //       linkText: 'Tweet by Trevor Belmont',
+  //     },
+  //     {
+  //       href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
+  //       linkText: 'Article by Esports Talk ',
+  //     },
+  //   ],
+  },
+  {
+    id: 's29c1de3-a454-488c-8c8d-8dbc15ad18e7',
+    categories: ['Content Suppression'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2021-05-22',
+    title: 'Dale Wilson fakes a legal proceeding against Sallow Dawn\'s Youtube channel',
+    image: {
+      link: 'https://www.youtube.com/@SallowDawn',
+      src: 'img/thumbpic/sallow_dawn.png',
+      alt: 'Sallow Dawn',
+      caption: '',
+    },
+    body: 'LowTierGod claims to possess court documents with the intention of removing Sallow Dawn\'s YouTube video. He informs YouTube that he intends to take legal action against me, but there are suspicions that these documents are not genuine.',
+	links: [
+      {
+        href: 'img/screenshots/court_docs1.png',
+        linkText: 'Screenshot by Sallow Dawn(1)',
+      },
+      {
+        href: 'img/screenshots/court_docs2.png',
+        linkText: 'Screenshot by Sallow Dawn(2)',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488c-8c8d-8dbc15ad18e7',
+    categories: ['self-injury'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2020-09-10',
+    title: 'Dale Wilson laughs at suicide victim',
+    image: {
+      link: 'https://www.youtube.com/@JoonTheKing',
+      src: 'img/thumbpic/roonie.png',
+      alt: 'SlayerWSS',
+      caption: '',
+    },
+    body: 'LowTierGod claims to possess court documents with the intention of removing my YouTube video. This situation has been ongoing for two weeks. He is informing YouTube that he intends to take legal action against me, but there are suspicions that these documents are not genuine.',
+	links: [
+      {
+        href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
+        linkText: 'Tweet by Trevor Belmont',
+      },
+      {
+        href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
+        linkText: 'Article by Esports Talk ',
       },
     ],
   },
@@ -77,6 +209,14 @@ const pageDescription = 'A super fancy timeline'; // The description of the page
 const pageAuthor = 'Jane Doe'; // Your name
 
 // DON'T EDIT BELOW THIS LINE! --------------------------------------------------------------------
+
+entries.sort(function(a, b) {
+  var c = new Date(a.date);
+  var d = new Date(b.date);
+  return c-d;
+});
+
+entries.reverse()
 const getFilters = (entries) => {
   const filters = new Set();
   for (var i = 0; i < entries.length; i++) {
@@ -87,13 +227,12 @@ const getFilters = (entries) => {
       }
     }
   }
+
+  
+
   var filtersArray = [...filters];
-	  filtersArray.sort(function(a,b){
-	  // Turn your strings into dates, and then subtract them
-	  // to get a value that is either negative, positive, or zero.
-	  return new Date(b.datetime) - new Date(a.datetime);
-	});
-  return filtersArray;
+	filtersArray.sort();
+  return filtersArray.reverse();
 };
 
 const addCategoriesStringsToEntries = (entries) => {
