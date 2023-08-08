@@ -39,7 +39,7 @@ const entries = [
       alt: 'Trevor Belmont',
       caption: 'Trevor Belmont!',
     },
-    body: 'On November 28, 2020, Dale Wilson doxxed Trevor Belmont during a live stream, revealing his personal information, including his address and residence.',
+    body: 'On November 28, 2020, Dale Wilson doxed Trevor Belmont during a live stream, revealing his personal information, including his address and residence.',
 	links: [
       {
         href: 'https://twitter.com/Trevor__Belmont/status/1332949952666824710',
@@ -68,7 +68,7 @@ const entries = [
 	links: [
       {
         href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
-        linkText: 'Tweet by Trevor Belmont',
+        linkText: 'Tweet by Joon the King',
       },
       {
         href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
@@ -89,15 +89,11 @@ const entries = [
       alt: 'SlayerWSS',
       caption: '',
     },
-    body: 'Joon The King alleges in a recent video that hes been doxed and harassed over two years by LowTierGod.',
+    body: 'Dale used the information he acquired through his copyright counter to dox Slayer WSS.',
 	links: [
       {
-        href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
-        linkText: 'Tweet by Trevor Belmont',
-      },
-      {
-        href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
-        linkText: 'Article by Esports Talk ',
+        href: 'https://www.youtube.com/watch?v=E7hJqgxjB9w',
+        linkText: 'Stream HighLights',
       },
     ],
   },
@@ -122,7 +118,7 @@ const entries = [
       },
       {
         href: 'https://youtu.be/Z57i9viTRvo?t=113',
-        linkText: 'Article by Esports Talk',
+        linkText: 'Video by Sallow Dawn',
       },
     ],
   },
@@ -131,12 +127,12 @@ const entries = [
     categories: ['Content Suppression'],
     color: 'black',
     faicon: 'flag',
-    date: '2021-05-22',
+    date: '2022-11-02',
     title: 'Dale Wilson fakes a legal proceeding against Chelka\'s Youtube Channel',
     image: {
       link: 'https://www.youtube.com/@JoonTheKing',
       src: 'img/thumbpic/chelka.png',
-      alt: 'SlayerWSS',
+      alt: 'Chelka',
       caption: '',
     },
     body: 'LowTierGod claims to possess court documents with the intention of removing my Chelka\'s Youtube videos. ',
@@ -184,20 +180,41 @@ const entries = [
     date: '2020-09-10',
     title: 'Dale Wilson laughs at suicide victim',
     image: {
-      link: 'https://www.youtube.com/@JoonTheKing',
+      link: '',
       src: 'img/thumbpic/roonie.png',
-      alt: 'SlayerWSS',
+      alt: 'Roonie',
       caption: '',
     },
     body: 'LowTierGod claims to possess court documents with the intention of removing my YouTube video. This situation has been ongoing for two weeks. He is informing YouTube that he intends to take legal action against me, but there are suspicions that these documents are not genuine.',
 	links: [
       {
-        href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
-        linkText: 'Tweet by Trevor Belmont',
+        href: 'https://twitter.com/VaultXIV/status/1304545816762343435',
+        linkText: 'Tweet and video by VAULT XIV',
+      }
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2017-03-28',
+    title: 'Dale Insults Handicapped Player BrolyLegs Losing To Him Online.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/broly.png',
+      alt: 'Roonie',
+      caption: '',
+    },
+    body: 'One of LowTierGod\'s most notorious moments occurred when he was defeated by Broly Legs in a ranked match. Following his loss, he proceeded to insult Broly Legs.',
+	links: [
+      {
+        href: 'https://www.youtube.com/watch?v=-8fo15u5U4E',
+        linkText: 'YouTube Highlights',
       },
       {
-        href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
-        linkText: 'Article by Esports Talk ',
+        href: 'hhttps://www.youtube.com/watch?v=1qmsTHNCvP8',
+        linkText: 'Dale\s response to the drama',
       },
     ],
   },
