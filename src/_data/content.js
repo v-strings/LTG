@@ -122,7 +122,7 @@ const entries = [
       },
       {
         href: 'https://youtu.be/Z57i9viTRvo?t=113',
-        linkText: 'Article by Esports Talk ',
+        linkText: 'Article by Esports Talk',
       },
     ],
   },
