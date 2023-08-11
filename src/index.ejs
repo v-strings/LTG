@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
   <head>
+    <link href='https://fonts.googleapis.com/css?family=Great Vibes' rel='stylesheet'>
     <%- include('/head', {head: content.head}) %>
   </head>
   <body>
     <% if (content.header) { %>
     <header class="page-header">
       <% if (!utilities.isWrappedInParagraphTags(content.header)) { %>
-      <p>
+      <p style="color:wheat;font-family: 'Great Vibes';font-size: 60px;">
         <% } %> <%- content.header %> <% if (!utilities.isWrappedInParagraphTags(content.header)) {
         %>
       </p>

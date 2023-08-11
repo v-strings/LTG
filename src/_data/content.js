@@ -110,7 +110,7 @@ const entries = [
       alt: 'SlayerWSS',
       caption: '',
     },
-    body: 'Joon The King alleges in a recent video that hes been doxed and harassed over two years by LowTierGod.',
+    body: 'Dale made harassing phone calls to Sallow Dawn\'s workplace in an attempt to get him fired, following Sallow Dawn\'s creation of videos about Dale.',
 	links: [
       {
         href: 'https://twitter.com/SallowDawn/status/1605335166938861568',
@@ -215,6 +215,31 @@ const entries = [
       {
         href: 'hhttps://www.youtube.com/watch?v=1qmsTHNCvP8',
         linkText: 'Dale\s response to the drama',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2015-10-29',
+    title: 'Dale posts animal abuse to Facebook.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/AB.png',
+      alt: 'american heart month ribbon',
+      caption: '',
+    },
+    body: 'Back around 2015 Dale would post videos/pictures of animal torture to his Facebook page.',
+	links: [
+      {
+        href: 'img/screenshots/AB.png',
+        linkText: 'Dale Posting about animal abuse 1 (censored)',
+      },
+      {
+        href: 'AB2',
+        linkText: 'Dale Posting about animal abuse 2 (censored)',
       },
     ],
   },
