@@ -347,7 +347,7 @@ const entries = [
 
 // Page details
 const pageTitle = 'The Dale Chronicles'; // The title of the page that shows in the browser tab
-const pageDescription = 'Dale E. Wilson, also known as LowTierGod, has a history he is actively attempting to conceal. He employs tactics such as false DMCA strikes, legal actions, and intentional ignorance to suppress his past from his current audience. The purpose of this project is to unveil the undisclosed aspects of his history that he is striving to keep hidden from public awareness.'; // The description of the page for search engines
+const pageDescription = 'The goal of this project is to bring to light the hidden parts of Dale E. Wilson\'s history that he is actively trying to keep secret.'; // The description of the page for search engines
 const pageAuthor = 'strings'; // Your name
 
 // DON'T EDIT BELOW THIS LINE! --------------------------------------------------------------------
