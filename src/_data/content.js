@@ -252,7 +252,7 @@ const entries = [
     title: 'Dale Wilson doxes YoItsSal ',
     image: {
       link: '',
-      src: 'img/thumbpic/YoItsSal.png',
+      src: 'img/thumbpic/yoitssal.png',
       alt: 'american heart month ribbon',
       caption: '',
     },
@@ -320,7 +320,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['dox'],
+    categories: ['disgusting'],
     color: 'black',
     faicon: 'flag',
     date: '2015-11-13',
