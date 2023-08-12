@@ -302,7 +302,7 @@ const entries = [
     title: 'Dale Wilson doxes Rocks ',
     image: {
       link: '',
-      src: 'img/thumbpic/Rocks.png',
+      src: 'img/thumbpic/rocks.png',
       alt: 'american heart month ribbon',
       caption: '',
     },
