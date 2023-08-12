@@ -243,12 +243,112 @@ const entries = [
       },
     ],
   },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2021-01-23',
+    title: 'Dale Wilson doxes YoItsSal ',
+    image: {
+      link: '',
+      src: 'img/thumbpic/YoItsSal.png',
+      alt: 'american heart month ribbon',
+      caption: '',
+    },
+    body: '',
+	// links: [
+  //     {
+  //       href: 'img/screenshots/AB.png',
+  //       linkText: 'Dale Posting about animal abuse 1 (censored)',
+  //     },
+  //     {
+  //       href: 'AB2',
+  //       linkText: 'Dale Posting about animal abuse 2 (censored)',
+  //     },
+  //   ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2015-10-29',
+    title: 'Dale Wilson doxes VaultRep ',
+    image: {
+      link: '',
+      src: 'img/thumbpic/VaultRep.png',
+      alt: 'american heart month ribbon',
+      caption: '',
+    },
+    body: '',
+	// links: [
+  //     {
+  //       href: 'img/screenshots/AB.png',
+  //       linkText: 'Dale Posting about animal abuse 1 (censored)',
+  //     },
+  //     {
+  //       href: 'AB2',
+  //       linkText: 'Dale Posting about animal abuse 2 (censored)',
+  //     },
+  //   ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2021-11-13',
+    title: 'Dale Wilson doxes Rocks ',
+    image: {
+      link: '',
+      src: 'img/thumbpic/Rocks.png',
+      alt: 'american heart month ribbon',
+      caption: '',
+    },
+    body: 'LTG Rocks, a former moderator, chose to step away due to perceiving Dale\'s streams as becoming monotonous and diluted. In response, Dale resorted to doxing LTG Rocks on a livestream and publicly reprimanded him.',
+	links: [
+      // {
+      //   href: 'img/screenshots/AB.png',
+      //   linkText: 'Dale Posting about animal abuse 1 (censored)',
+      // },
+      {
+        href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-(LTG)-Dale---Stream-11_13_2021--eRYpxxJx_ro---FIXED-:d',
+        linkText: 'The Live Stream',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2015-11-13',
+    title: 'Dale Wilson scam\s his viewers.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/scam.png',
+      alt: 'american heart month ribbon',
+      caption: '',
+    },
+    body: 'Dale organized Tekken tournaments with the promise of a shoe giveaway, but instead, he banned participants without awarding any shoes.',
+	links: [
+      // {
+      //   href: 'img/screenshots/AB.png',
+      //   linkText: 'Dale Posting about animal abuse 1 (censored)',
+      // },
+      // {
+      //   href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-(LTG)-Dale---Stream-11_13_2021--eRYpxxJx_ro---FIXED-:d',
+      //   linkText: 'The Live Stream',
+      // },
+    ],
+  },
 ];
 
 // Page details
-const pageTitle = 'Static timeline generator'; // The title of the page that shows in the browser tab
-const pageDescription = 'A super fancy timeline'; // The description of the page for search engines
-const pageAuthor = 'Jane Doe'; // Your name
+const pageTitle = 'The Dale Chronicles'; // The title of the page that shows in the browser tab
+const pageDescription = 'Dale E. Wilson, also known as LowTierGod, has a history he is actively attempting to conceal. He employs tactics such as false DMCA strikes, legal actions, and intentional ignorance to suppress his past from his current audience. The purpose of this project is to unveil the undisclosed aspects of his history that he is striving to keep hidden from public awareness.'; // The description of the page for search engines
+const pageAuthor = 'strings'; // Your name
 
 // DON'T EDIT BELOW THIS LINE! --------------------------------------------------------------------
 
