@@ -4,11 +4,17 @@
     <link href='https://fonts.googleapis.com/css?family=Great Vibes' rel='stylesheet'>
     <%- include('/head', {head: content.head}) %>
   </head>
+  <div class="topnav">
+    <!-- <a class="active" href="#home">Home</a> -->
+    <!-- <a href="#news">News</a> -->
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+  </div>
   <body>
     <% if (content.header) { %>
     <header class="page-header">
       <% if (!utilities.isWrappedInParagraphTags(content.header)) { %>
-      <p style="color:wheat;font-family: 'Great Vibes';font-size: 60px;">
+      <p style="color:rgb(18, 18, 18);font-family: 'Great Vibes';font-size: 60px;">
         <% } %> <%- content.header %> <% if (!utilities.isWrappedInParagraphTags(content.header)) {
         %>
       </p>
@@ -18,7 +24,7 @@
 
     <% } %>
     <section>
-      <div class="timeline-filter-wrapper">
+      <div class="timeline-filter-wrapper" style="border-bottom: 3px solid #444;">
         <header class="timeline-filter">
           <ul>
             <li>

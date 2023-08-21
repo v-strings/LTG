@@ -74,6 +74,18 @@ const entries = [
         href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
         linkText: 'Article by Esports Talk ',
       },
+      {
+        href: 'https://www.youtube.com/watch?v=FXR5vKQ7BXQ',
+        linkText: ' VOD Highlight by Homura Magica (08/11/19)',
+      },
+      {
+        href: 'https://archive.org/details/lowtiershorts/%5BCOPYRIGHT+FAKE+LTG%5D+Low+Tier+God+-+%5BLTS%5D+-+Joon+the+King+Chronicles+%5BqheODuQRBVM%5D.mp4',
+        linkText: ' VOD Highlight by [LTS]',
+      },
+      {
+        href: 'https://archive.org/details/low-tier-gods-meltdown-over-joon-the-king-announcing-ltg-documentary-sequel-archive-ef-7t-bg-4-uamw/LowTierGod\'s+MELTDOWN+over+Joon+The+King+Announcing+LTG+Documentary+Sequel+%5BARCHIVE%5D+%5BEF7tBg4UAMw%5D.mp4',
+        linkText: 'LowTierGod reacts to Joon The King Announcing LTG Documentary Sequel.',
+      },
     ],
   },
   {
@@ -119,6 +131,10 @@ const entries = [
       {
         href: 'https://youtu.be/Z57i9viTRvo?t=113',
         linkText: 'Video by Sallow Dawn',
+      },
+      {
+        href: 'https://www.youtube.com/watch?v=sENWq1qm6kY',
+        linkText: 'Vod Archive by Low Tiersexual',
       },
     ],
   },
@@ -272,7 +288,7 @@ const entries = [
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
     categories: ['dox'],
     color: 'black',
-    faicon: 'flag',
+    faicon: 'unlock',
     date: '2015-10-29',
     title: 'Dale Wilson doxes VaultRep ',
     image: {
@@ -297,7 +313,7 @@ const entries = [
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
     categories: ['dox'],
     color: 'black',
-    faicon: 'flag',
+    faicon: 'unlock',
     date: '2021-11-13',
     title: 'Dale Wilson doxes Rocks ',
     image: {
@@ -308,13 +324,21 @@ const entries = [
     },
     body: 'LTG Rocks, a former moderator, chose to step away due to perceiving Dale\'s streams as becoming monotonous and diluted. In response, Dale resorted to doxing LTG Rocks on a livestream and publicly reprimanded him.',
 	links: [
-      // {
-      //   href: 'img/screenshots/AB.png',
-      //   linkText: 'Dale Posting about animal abuse 1 (censored)',
-      // },
+      {
+        href: 'https://archive.org/details/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/LOW+TIER+GOD+DOXXES+ROCKS+P.1+AND+KICKS+CAT+I+THINK+YOU+DECIDE+MFs+%5BHBRGnwmo-h8%5D.mkv',
+        linkText: 'Dale Doxing Rocks Highlights by High Tier Gucci',
+      },
+      {
+        href: 'https://archive.org/details/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/LOW+TIER+GOD+DOXXES+ROXXS+PART+2.+(+FROM+ROCKS+PERSPECTIVE+)+%F0%9F%A4%AF+%5BnEpR-fBGEzI%5D.mkv',
+        linkText: 'Doxing from Rock\'s POV',
+      },
       {
         href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-(LTG)-Dale---Stream-11_13_2021--eRYpxxJx_ro---FIXED-:d',
-        linkText: 'The Live Stream',
+        linkText: 'Full Vod Archive (11-13-2021)',
+      },
+      {
+        href: 'https://archive.org/details/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/Low+Tier+God\'s+favorite+little+troll+right+now+%5B3qALedUKIm0%5D.mp4',
+        linkText: 'Dale files a false takedown notice of the videos',
       },
     ],
   },
@@ -341,6 +365,106 @@ const entries = [
       //   href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-(LTG)-Dale---Stream-11_13_2021--eRYpxxJx_ro---FIXED-:d',
       //   linkText: 'The Live Stream',
       // },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2021-09-15',
+    title: 'Dale posts revenge porn.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/rotkill.png',
+      alt: 'american heart month ribbon',
+      caption: '',
+    },
+    body: 'On 15 September, 2021, Dalauan Sparrow continued his hours-long, days-spanning campaign against ROTKLLL for her crime of a tweet by posting revenge porn of her publicly to Twitter and semi-publicly to his Discord.',
+	links: [
+      {
+        href: 'https://www.bitchute.com/video/YTPFR5GV1gpX/',
+        linkText: 'LowTierGod Stream Clip Archive',
+      },
+      {
+        href: 'https://www.youtube.com/watch?v=V9zboeUocQw',
+        linkText: 'Breakdown by Sallow Dawn',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2021-09-15',
+    title: 'YouTube Bans LowTierGod',
+    image: {
+      link: '',
+      src: 'img/thumbpic/YTbanned.png',
+      alt: 'american heart month ribbon',
+      caption: '',
+    },
+    body: 'Dale Wilson, known as LowTierGod, received a strike on his primary YouTube channel that prevented content creation. He started streaming on an alternate channel, but YouTube eventually banned both of his accounts for violating their policies.',
+	links: [
+      {
+        href: 'img/screenshots/ltg-yt-ban.png',
+        linkText: 'Tweet by LowTierGod (Screenshot)',
+      },
+      // {
+      //   href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-(LTG)-Dale---Stream-11_13_2021--eRYpxxJx_ro---FIXED-:d',
+      //   linkText: 'The Live Stream',
+      // },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2019-06-02',
+    title: 'Dale Wilson doxes out of E-Lotion.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/E-Lotion.png',
+      alt: 'american heart month ribbon',
+      caption: '',
+    },
+    body:  'On June 02, 2019, Dale Wilson doxed E-Lotion during a live stream, revealing his face and his address.',
+	links: [
+      {
+        href: 'https://archive.org/details/LowScrubBitchArchives/Low+Scrub+Bitch/08+LOWTIERGOD+GOES+BALLISTIC!+RAGE+QUITS+MULTIPLE+MATCHES+AND+DOXXES+FELLOW+YOUTUBER+OUT+OF+E+LOTION!.mp4',
+        linkText: 'Stream Archive (2019-09-19)',
+      },
+      {
+        href: 'https://odysee.com/@Dr.BroadwayMk.II:0/2019-06-02:f0',
+        linkText: 'Stream Archive Mirror #2 (2019-09-19)',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2021-01-22',
+    title: 'Dale Wilson creates trademark to silence content.',
+    image: {
+      link: '',
+      src: 'https://www.touchdynamic.com/wp-content/uploads/2016/08/Trademark-Symbol-Icon.jpg',
+      alt: 'trade mark icon',
+      caption: '',
+    },
+    body:  'On January 02, 2019, Dale Wilson doxed E-Lotion during a live stream, revealing his face and his address.',
+	links: [
+      {
+        href: 'https://uspto.report/TM/90481825',
+        linkText: 'Trademarks filing #1',
+      },
+      {
+        href: 'https://trademarks.justia.com/904/81/low-tier-90481825.html',
+        linkText: 'Trademarks filing #2',
+      },
     ],
   },
 ];
