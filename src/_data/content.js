@@ -24,6 +24,10 @@ const entries = [
         href: 'https://dotesports.com/fgc/news/capcom-bans-ceroblast-low-tier-god-from-all-events',
         linkText: 'Article by dotesports',
       },
+	   {
+        href: 'https://www.youtube.com/watch?v=aCTWY-aVj5w',
+        linkText: 'VOD Highlight by GLYFE (04-14-20) ',
+      },
     ],
   },
   {
@@ -99,7 +103,7 @@ const entries = [
       link: 'https://www.youtube.com/@JoonTheKing',
       src: 'img/thumbpic/SlayerWSS.png',
       alt: 'SlayerWSS',
-      caption: '',
+      caption: 'SlayerWSS',
     },
     body: 'Dale used the information he acquired through his copyright counter to dox Slayer WSS.',
 	links: [
@@ -119,8 +123,8 @@ const entries = [
     image: {
       link: 'https://www.youtube.com/@SallowDawn',
       src: 'img/thumbpic/sallow_dawn.png',
-      alt: 'SlayerWSS',
-      caption: '',
+      alt: 'Sallow Dawn',
+      caption: 'Sallow Dawn',
     },
     body: 'Dale made harassing phone calls to Sallow Dawn\'s workplace in an attempt to get him fired, following Sallow Dawn\'s creation of videos about Dale.',
 	links: [
@@ -129,7 +133,7 @@ const entries = [
         linkText: 'Tweet by Sallow Dawn',
       },
       {
-        href: 'https://youtu.be/Z57i9viTRvo?t=113',
+        href: 'https://youtu.be/Z57i9viTRvo?t=170',
         linkText: 'Video by Sallow Dawn',
       },
       {
@@ -149,19 +153,31 @@ const entries = [
       link: 'https://www.youtube.com/@JoonTheKing',
       src: 'img/thumbpic/chelka.png',
       alt: 'Chelka',
-      caption: '',
+      caption: 'Chelka',
     },
-    body: 'LowTierGod claims to possess court documents with the intention of removing my Chelka\'s Youtube videos. ',
-	// links: [
-  //     {
-  //       href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
-  //       linkText: 'Tweet by Trevor Belmont',
-  //     },
-  //     {
-  //       href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
-  //       linkText: 'Article by Esports Talk ',
-  //     },
-  //   ],
+    body: 'LowTierGod claims to possess court documents with the intention of removing my Chelka\'s Youtube videos. Dale also issued False Copyright Strikes to his channel.',
+    links: [
+        {
+          href: 'img/screenshots/chelka1.png',
+          linkText: 'Copyright strike by Dale (9-13-2022)',
+        },
+        {
+          href: 'img/screenshots/chelka2.png',
+          linkText: 'Copyright strike by Dale (9-20-2022)',
+        },
+        {
+          href: 'img/screenshots/chelka3.png',
+          linkText: 'Fraudulent a legal proceeding.',
+        },
+        {
+          href: 'img/screenshots/chelka4.png',
+          linkText: 'Copyright strike removed by YouTube.',
+        },
+        {
+          href: 'img/screenshots/chelka5.png',
+          linkText: 'Attempted Channel Takedown With 5 Copyright Strikes',
+        },
+      ],
   },
   {
     id: 's29c1de3-a454-488c-8c8d-8dbc15ad18e7',
@@ -174,7 +190,7 @@ const entries = [
       link: 'https://www.youtube.com/@SallowDawn',
       src: 'img/thumbpic/sallow_dawn.png',
       alt: 'Sallow Dawn',
-      caption: '',
+      caption: 'Sallow Dawn',
     },
     body: 'LowTierGod claims to possess court documents with the intention of removing Sallow Dawn\'s YouTube video. He informs YouTube that he intends to take legal action against me, but there are suspicions that these documents are not genuine.',
 	links: [
@@ -199,13 +215,21 @@ const entries = [
       link: '',
       src: 'img/thumbpic/roonie.png',
       alt: 'Roonie',
-      caption: '',
+      caption: 'Ronnie McNutt',
     },
-    body: 'LowTierGod claims to possess court documents with the intention of removing my YouTube video. This situation has been ongoing for two weeks. He is informing YouTube that he intends to take legal action against me, but there are suspicions that these documents are not genuine.',
+    body: 'Dale Wilson watched a video of a war veteran called, Ronnie McNutt, who sadly ended his life due to PTSD. After watching the suicide Live on YouTube with the audio playing in the background, he laughed and belittled the man for it.',
 	links: [
       {
         href: 'https://twitter.com/VaultXIV/status/1304545816762343435',
-        linkText: 'Tweet and video by VAULT XIV',
+        linkText: 'Tweet and video #1 by VAULT XIV',
+      },
+      {
+        href: 'https://twitter.com/KrazeeGamez/status/1306196180557127680',
+        linkText: 'Tweet and video #2 by KrazeeGamez',
+      },
+      {
+        href: 'https://nypost.com/2020/09/08/army-veteran-kills-himself-in-facebook-livestream/',
+        linkText: 'Article by New York Post',
       }
     ],
   },
@@ -250,11 +274,11 @@ const entries = [
     body: 'Back around 2015 Dale would post videos/pictures of animal torture to his Facebook page.',
 	links: [
       {
-        href: 'img/screenshots/AB.png',
+        href: 'img/screenshots/Dale-AB1.png',
         linkText: 'Dale Posting about animal abuse 1 (censored)',
       },
       {
-        href: 'AB2',
+        href: 'img/screenshots/Dale-AB2.png',
         linkText: 'Dale Posting about animal abuse 2 (censored)',
       },
     ],
@@ -270,7 +294,7 @@ const entries = [
       link: '',
       src: 'img/thumbpic/yoitssal.png',
       alt: 'american heart month ribbon',
-      caption: '',
+      caption: 'YoItsSal',
     },
     body: '',
 	// links: [
@@ -320,7 +344,7 @@ const entries = [
       link: '',
       src: 'img/thumbpic/rocks.png',
       alt: 'american heart month ribbon',
-      caption: '',
+      caption: 'Rocks',
     },
     body: 'LTG Rocks, a former moderator, chose to step away due to perceiving Dale\'s streams as becoming monotonous and diluted. In response, Dale resorted to doxing LTG Rocks on a livestream and publicly reprimanded him.',
 	links: [
@@ -378,7 +402,7 @@ const entries = [
       link: '',
       src: 'img/thumbpic/rotkill.png',
       alt: 'american heart month ribbon',
-      caption: '',
+      caption: 'ROTKLLL',
     },
     body: 'On 15 September, 2021, Dalauan Sparrow continued his hours-long, days-spanning campaign against ROTKLLL for her crime of a tweet by posting revenge porn of her publicly to Twitter and semi-publicly to his Discord.',
 	links: [
@@ -434,11 +458,11 @@ const entries = [
 	links: [
       {
         href: 'https://archive.org/details/LowScrubBitchArchives/Low+Scrub+Bitch/08+LOWTIERGOD+GOES+BALLISTIC!+RAGE+QUITS+MULTIPLE+MATCHES+AND+DOXXES+FELLOW+YOUTUBER+OUT+OF+E+LOTION!.mp4',
-        linkText: 'Stream Archive (2019-09-19)',
+        linkText: 'Stream Archive (2019-06-02)',
       },
       {
         href: 'https://odysee.com/@Dr.BroadwayMk.II:0/2019-06-02:f0',
-        linkText: 'Stream Archive Mirror #2 (2019-09-19)',
+        linkText: 'Stream Archive Mirror #2 (2019-06-02)',
       },
     ],
   },
@@ -465,6 +489,128 @@ const entries = [
         href: 'https://trademarks.justia.com/904/81/low-tier-90481825.html',
         linkText: 'Trademarks filing #2',
       },
+      {
+        href: 'https://archive.org/details/low-tier-god-and-the-curious-case-of-the-cucktastic-covenant-court-51vk-sf-5qnzg.info/.Low+Tier+God+Has+A+Trademark+On+His+Name+And+What+This+Means+For+Troll+Channels+%5B6Z7kAfX4-kg%5D.mp4',
+        linkText: 'Video by VaultRep',
+        
+      },
+      {
+        href: 'https://twitter.com/Trevor__Belmont/status/1381343517235048450',
+        linkText: 'Dale Privicy claims VaultRepXIV video, Tweet by Trevor Belmont',
+        
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2022-06-06',
+    title: 'False Copyright Strike Against GreyRaven15.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/GreyRaven15.png',
+      alt: 'GreyRaven15',
+      caption: 'GreyRaven15',
+    },
+    body:  'GreyRaven15 Received a copyright strike on YouTube from Low Tier God for an Injustice 2 video featuring gameplay of a match against his characters, even though he didn\'t use his content.',
+	links: [
+      {
+        href: 'https://www.youtube.com/watch?v=UM5fLW3qjQA',
+        linkText: 'Video by GreyRaven15',
+      },
+      {
+        href: 'img/screenshots/GreyRaven.png',
+        linkText: 'Strike ScreenShot',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2022-07-22',
+    title: 'False Copyright Strikes Against Revolver Theory.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/revolver.png',
+      alt: 'Revolver Theory',
+      caption: 'Revolver Theory',
+    },
+    body:  'On July 22, 2022, LowTierGod falsely issued multiple copyright strikes against Revolver Theory. These claims were subsequently reviewed and cleared by YouTube.',
+	links: [
+      {
+        href: 'img/screenshots/revolverstrike1.png',
+        linkText: 'Copyright strike cleared by Youtube',
+      },
+      {
+        href: 'img/screenshots/revolverstrike2.png ',
+        linkText: 'Copyright strike issued to Revolver Theory.',
+      },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['disgusting'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2022-08-23',
+    title: 'Multiple False Copyright Strikes Against Lowkey Eli.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/lowkey_eli.png',
+      alt: 'Lowkey Eli',
+      caption: 'Lowkey Eli',
+    },
+    body:  'LowTierGod falsely issued multiple copyright strikes against Lowkey Eli. This resulted in the ban of one of his channels.',
+	links: [
+    {
+      href: 'img/screenshots/lowkey_eli_1.png',
+      linkText: 'Copyright strike by Dale #1 (Oct 17 & 18 2020)',
+    },
+    {
+      href: 'img/screenshots/lowkey_eli_2.png',
+      linkText: 'Copyright strike by Dale #2 (Oct 17 & 18 2020) ',
+    },
+    {
+      href: 'img/screenshots/lowkey_eli_3.png',
+      linkText: 'Copyright strike by Dale(Approximately August 2022) ',
+    },
+    {
+      href: 'img/screenshots/lowkey_eli_4.png',
+      linkText: 'Copyright strike by Dale(Approximately April 2023) ',
+    },
+    {
+      href: 'img/screenshots/lowkey_eli_5.png',
+      linkText: 'Channel Banned By YouTube(August 2022) ',
+    },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2019-10-19',
+    title: 'Dale Wilson doxes his fans.',
+    image: {
+      link: '',
+      src: 'img/thumbpic/fandox.png',
+      alt: 'Unlock',
+      caption: '',
+    },
+    body:  'Dale decided to dox people who bought his merchandise on stream by showing their name and address.',
+	links: [
+    {
+      href: 'img/screenshots/fandox1.png',
+      linkText: 'Dale Doxxes his supporters (Censored Screenshot)',
+    },
+    {
+      href: 'img/screenshots/fandox1.png',
+      linkText: 'TODO: censored vod',
+    },
     ],
   },
 ];
