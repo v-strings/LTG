@@ -79,6 +79,10 @@ const entries = [
         linkText: 'Article by Esports Talk ',
       },
       {
+        href: 'https://www.ginx.tv/en/video-games/lowtiergod-accused-of-harassing-and-doxing-youtuber-joon-the-king-for-over-two-years',
+        linkText: 'Article by Ginx TV ',
+      },
+      {
         href: 'https://www.youtube.com/watch?v=FXR5vKQ7BXQ',
         linkText: ' VOD Highlight by Homura Magica (08/11/19)',
       },
@@ -110,6 +114,10 @@ const entries = [
       {
         href: 'https://www.youtube.com/watch?v=E7hJqgxjB9w',
         linkText: 'Stream HighLights',
+      },
+      {
+        href: 'https://www.youtube.com/watch?v=Tj_o57gZ254',
+        linkText: 'Threats to Slayer WSS',
       },
     ],
   },
@@ -172,6 +180,10 @@ const entries = [
         {
           href: 'img/screenshots/chelka4.png',
           linkText: 'Copyright strike removed by YouTube.',
+        },
+        {
+          href: 'img/screenshots/chelka5.png',
+          linkText: 'Attempted Channel Takedown With 5 Copyright Strikes',
         },
         {
           href: 'img/screenshots/chelka5.png',
@@ -244,7 +256,7 @@ const entries = [
       link: '',
       src: 'img/thumbpic/broly.png',
       alt: 'Roonie',
-      caption: '',
+      caption: 'BrolyLegs',
     },
     body: 'One of LowTierGod\'s most notorious moments occurred when he was defeated by Broly Legs in a ranked match. Following his loss, he proceeded to insult Broly Legs.',
 	links: [
@@ -283,31 +295,31 @@ const entries = [
       },
     ],
   },
-  {
-    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['dox'],
-    color: 'black',
-    faicon: 'flag',
-    date: '2021-01-23',
-    title: 'Dale Wilson doxes YoItsSal ',
-    image: {
-      link: '',
-      src: 'img/thumbpic/yoitssal.png',
-      alt: 'american heart month ribbon',
-      caption: 'YoItsSal',
-    },
-    body: '',
-	// links: [
-  //     {
-  //       href: 'img/screenshots/AB.png',
-  //       linkText: 'Dale Posting about animal abuse 1 (censored)',
-  //     },
-  //     {
-  //       href: 'AB2',
-  //       linkText: 'Dale Posting about animal abuse 2 (censored)',
-  //     },
-  //   ],
-  },
+  // {
+  //   id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
+  //   categories: ['dox'],
+  //   color: 'black',
+  //   faicon: 'flag',
+  //   date: '2021-01-23',
+  //   title: 'Dale Wilson doxes YoItsSal ',
+  //   image: {
+  //     link: '',
+  //     src: 'img/thumbpic/yoitssal.png',
+  //     alt: 'american heart month ribbon',
+  //     caption: 'YoItsSal',
+  //   },
+  //   body: '',
+	// // links: [
+  // //     {
+  // //       href: 'img/screenshots/AB.png',
+  // //       linkText: 'Dale Posting about animal abuse 1 (censored)',
+  // //     },
+  // //     {
+  // //       href: 'AB2',
+  // //       linkText: 'Dale Posting about animal abuse 2 (censored)',
+  // //     },
+  // //   ],
+  // },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
     categories: ['dox'],
@@ -319,7 +331,7 @@ const entries = [
       link: '',
       src: 'img/thumbpic/VaultRep.png',
       alt: 'american heart month ribbon',
-      caption: '',
+      caption: 'VaultRep',
     },
     body: '',
 	// links: [
@@ -418,7 +430,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['disgusting'],
+    categories: ['ban'],
     color: 'black',
     faicon: 'flag',
     date: '2021-09-15',
@@ -435,6 +447,10 @@ const entries = [
         href: 'img/screenshots/ltg-yt-ban.png',
         linkText: 'Tweet by LowTierGod (Screenshot)',
       },
+      {
+        href: 'https://www.youtube.com/channel/UCv6iQrIL9KYAs8lTcjuJijA',
+        linkText: 'Lowtiergod channel URL ',
+      },
       // {
       //   href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-(LTG)-Dale---Stream-11_13_2021--eRYpxxJx_ro---FIXED-:d',
       //   linkText: 'The Live Stream',
@@ -443,7 +459,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['disgusting'],
+    categories: ['dox+'],
     color: 'black',
     faicon: 'flag',
     date: '2019-06-02',
@@ -452,7 +468,7 @@ const entries = [
       link: '',
       src: 'img/thumbpic/E-Lotion.png',
       alt: 'american heart month ribbon',
-      caption: '',
+      caption: 'E-Lotion',
     },
     body:  'On June 02, 2019, Dale Wilson doxed E-Lotion during a live stream, revealing his face and his address.',
 	links: [
@@ -468,7 +484,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['disgusting'],
+    categories: ['Content Suppression'],
     color: 'black',
     faicon: 'flag',
     date: '2021-01-22',
@@ -503,7 +519,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['disgusting'],
+    categories: ['Content Suppression'],
     color: 'black',
     faicon: 'flag',
     date: '2022-06-06',
@@ -528,7 +544,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['disgusting'],
+    categories: ['Content Suppression'],
     color: 'black',
     faicon: 'flag',
     date: '2022-07-22',
@@ -553,7 +569,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['disgusting'],
+    categories: ['Content Suppression'],
     color: 'black',
     faicon: 'flag',
     date: '2022-08-23',
@@ -611,6 +627,129 @@ const entries = [
       href: 'img/screenshots/fandox1.png',
       linkText: 'TODO: censored vod',
     },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
+    categories: ['Content Suppression'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2018-07-03',
+    title: 'Dale allegedly groomed Alaina (his ex gf) when she was 17 while dale Dale was 29',
+    image: {
+      link: '',
+      src: 'img/thumbpic/Alaina.png',
+      alt: 'groom',
+      caption: 'groom',
+    },
+    body:  '',
+	links: [
+    {
+      href: 'https://www.youtube.com/watch?v=k6AvBZp3TZ4',
+      linkText: 'Documented vido by Cornstar archived by SimpFelon',
+    },
+    {
+      href: 'img/screenshots/Alaina1.png',
+      linkText: 'More proof from Alaina',
+    },
+    {
+      href: 'https://streamable.com/fd3rk',
+      linkText: 'Anniversary reveal by Alaina',
+    },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2023-09-17',
+    title: 'Dale shows and mocks Homeless man getting shot and killed on stream',
+    image: {
+      link: 'https://www.cbsnews.com/chicago/news/morgan-park-police-shooting-video-louis-gordon-hay/',
+      src: 'img/thumbpic/roonie.png',
+      alt: 'groom',
+      caption: '',
+    },
+    body:  "While Dale was live streaming on kick, he broadcasted a fatal police shooting of Louis Gordon-Hay during a police raid. During the encounter, the suspect said \'kill me,\' and Dale continued to mock this action throughout his live streams.",
+	links: [
+    
+    {
+      href: 'https://sp.rmbl.ws/s8/2/7/r/L/W/7rLWm.caa.mp4?u=3&b=0',
+      linkText: 'Full Vod Archive (TimeStamp 29:10)',
+    },
+    {
+      href: 'https://www.youtube.com/watch?v=_haOsc5DsJ0',
+      linkText: 'Censored Video by PoliceActivity',
+    },
+    {
+      href: 'https://www.cbsnews.com/chicago/news/morgan-park-police-shooting-video-louis-gordon-hay/',
+      linkText: 'CBS News Article - "fatal police shooting of Louis Gordon-Hay"',
+    },
+    {
+      href: 'https://youtu.be/8pWrqXqnzcA?si=10XXEJaRzEB64BcH',
+      linkText: 'Video by Low Tier Bisexual',
+    },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
+    categories: ['Disgusting','Self injury'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2023-01-10',
+    title: '[Graphic] Dale shows someone\'s ankle being ripped on Stream',
+    image: {
+      link: 'https://www.cbsnews.com/chicago/news/morgan-park-police-shooting-video-louis-gordon-hay/',
+      src: 'img/thumbpic/broken.png',
+      alt: 'groom',
+      caption: '',
+    },
+    body:  "While Dale was live streaming on Trovo, he broadcasted a graphic video of a mans leg being contorted backwards in basketball",
+	links: [
+    
+    {
+      href: 'https://archive.org/details/low-tier-god-live-the-2-show-01-10-23-part-1-8819f-70b-52e-158fa-7a-8efb-98f-94f-0c-3415b-1f-456/Low+Tier+God+LIVE%EF%BC%9A+The+2%25+Show+(01-10-23)+(Part+2)+%5Bf0eebfdc1d8b5070554f06dab82e90742dda7715%5D.mp4',
+      linkText: 'Full Vod Archive ',
+    },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2023-06-13',
+    title: 'Multiple Channel Takedown Attempts on Joshuas Cornstar',
+    image: {
+      link: 'https://www.youtube.com/@JoshuasCornsta',
+      src: 'img/thumbpic/Cornstar.png',
+      alt: 'groom',
+      caption: 'Cornstar',
+    },
+    body:  'Dale Allegedly filed 55+ false copyright claims using ThumbmediaNet. These actions have involved flagging, reporting, or making false claims against in an effort to have it removed from the platform',
+	links: [
+    {
+      href: 'img/screenshots/Cornstar1.png',
+      linkText: 'Dale mobilizing this followers to flag on discord.',
+    },
+    {
+      href: 'img/screenshots/Cornstar2.png',
+      linkText: 'Cornstar beats copyright claim. #1',
+    },
+    {
+      href: 'img/screenshots/Cornstar3.png',
+      linkText: 'Cornstar beats copyright claim. #2',
+    },
+    {
+      href: 'img/screenshots/Cornstar4.png',
+      linkText: 'Cornstar beats copyright claim. #3',
+    },
+    {
+      href: 'img/screenshots/Cornstar5.png',
+      linkText: 'Cornstar beats copyright claim. #4',
+    },
+   
     ],
   },
 ];
