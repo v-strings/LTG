@@ -1,6 +1,35 @@
 const header = 'The Dale Chronicles';
-const footer = 'A footer goes here.';
+const footer = 'Like a carefully sealed book, they presented themselves to the world, each page hiding the untold chapters of their past.';
 const entries = [
+  {
+    id: '25c2ada0-cf85-4144-9e33-3576d75b250c',
+    categories: ['ban'],
+    color: 'purple',
+    faicon: 'ban',
+    date: '2023-11-27', //YYYY-MM-DD"
+    title: 'Dale\'s 5th Youtube account has been banned after a month, for ban evasion',
+    image: {
+      link: 'https://www.youtube.com/@LTGDailyy',
+      src: 'img/thumbpic/LTGDaily.png',
+      alt: 'LTGDaily',
+      caption: 'LTGDaily',
+    },
+    body: "",
+    links: [
+	   {
+        href: 'https://www.youtube.com/@LTGDailyy',
+        linkText: 'Oringal Channel URL',
+      },
+	    {
+        href: 'img/screenshots/LTGDaily1.png',
+        linkText: 'Channel Screenshot',
+      },
+	    {
+        href: 'https://socialblade.com/youtube/channel/UCvh30NPlq8BHp3SELCgNGXA',
+        linkText: 'Social Blade',
+      },
+    ],
+  },
   {
     id: '25c2ada0-cf85-4144-9e33-3576d75b250c',
     categories: ['ban'],
@@ -19,6 +48,7 @@ const entries = [
       {
         href: 'https://twitter.com/CapcomFighters/status/1253453087747878912?s=19',
         linkText: 'Tweet by Capcom',
+        mirror: 'img/screenshots/EVO3.png',
       },
 	   {
         href: 'https://dotesports.com/fgc/news/capcom-bans-ceroblast-low-tier-god-from-all-events',
@@ -27,6 +57,14 @@ const entries = [
 	   {
         href: 'https://www.youtube.com/watch?v=aCTWY-aVj5w',
         linkText: 'VOD Highlight by GLYFE (04-14-20) ',
+      },
+	   {
+        href: 'img/screenshots/EVO1.png',
+        linkText: 'EVO ban statemen 1',
+      },
+	   {
+        href: 'img/screenshots/EVO2.png',
+        linkText: 'EVO ban statemen 2',
       },
     ],
   },
@@ -48,6 +86,7 @@ const entries = [
       {
         href: 'https://twitter.com/Trevor__Belmont/status/1332949952666824710',
         linkText: 'Tweet by Trevor Belmont',
+        mirror: 'img/screenshots/Trevor.png'
       },
       {
         href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-%28LTG%29-Dale---Stream-11-28-%281-of-2%29--LWHLH5ihQbE-:6',
@@ -73,6 +112,7 @@ const entries = [
       {
         href: 'https://twitter.com/JoonTheKing/status/1396164015437467653',
         linkText: 'Tweet by Joon the King',
+        mirror: 'img/screenshots/Joon1.png',
       },
       {
         href: 'https://www.esportstalk.com/news/lowtiergod-allegedly-harassing-and-doxing-joon-for-the-past-two-years/',
@@ -119,6 +159,10 @@ const entries = [
         href: 'https://www.youtube.com/watch?v=Tj_o57gZ254',
         linkText: 'Threats to Slayer WSS',
       },
+      {
+        href: 'img/screenshots/Slayer.png',
+        linkText: 'Tweets about Slayer',
+      },
     ],
   },
   {
@@ -139,6 +183,7 @@ const entries = [
       {
         href: 'https://twitter.com/SallowDawn/status/1605335166938861568',
         linkText: 'Tweet by Sallow Dawn',
+        mirror: 'img/screenshots/Dawn1.png',
       },
       {
         href: 'https://youtu.be/Z57i9viTRvo?t=170',
@@ -147,6 +192,7 @@ const entries = [
       {
         href: 'https://www.youtube.com/watch?v=sENWq1qm6kY',
         linkText: 'Vod Archive by Low Tiersexual',
+        mirror: 'https://www.bitchute.com/video/nsVjkcezq0mn/'
       },
     ],
   },
@@ -218,7 +264,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488c-8c8d-8dbc15ad18e7',
-    categories: ['self-injury'],
+    categories: ['Self injury'],
     color: 'black',
     faicon: 'flag',
     date: '2020-09-10',
@@ -265,7 +311,7 @@ const entries = [
         linkText: 'YouTube Highlights',
       },
       {
-        href: 'hhttps://www.youtube.com/watch?v=1qmsTHNCvP8',
+        href: 'h\https://www.youtube.com/watch?v=1qmsTHNCvP8',
         linkText: 'Dale\s response to the drama',
       },
     ],
@@ -301,7 +347,7 @@ const entries = [
   //   color: 'black',
   //   faicon: 'flag',
   //   date: '2021-01-23',
-  //   title: 'Dale Wilson doxes YoItsSal ',
+  //   title: 'Dale Wilson doxes a Minor (YoItsSal)',
   //   image: {
   //     link: '',
   //     src: 'img/thumbpic/yoitssal.png',
@@ -330,20 +376,20 @@ const entries = [
     image: {
       link: '',
       src: 'img/thumbpic/VaultRep.png',
-      alt: 'american heart month ribbon',
+      alt: 'VaultRep',
       caption: 'VaultRep',
     },
-    body: '',
-	// links: [
-  //     {
-  //       href: 'img/screenshots/AB.png',
-  //       linkText: 'Dale Posting about animal abuse 1 (censored)',
-  //     },
-  //     {
-  //       href: 'AB2',
-  //       linkText: 'Dale Posting about animal abuse 2 (censored)',
-  //     },
-  //   ],
+    body: 'Vaultrep claimed to have been doxxed by Dale. According to the information, Dale allegedly obtained Vaultrep\'s personal information through a counter claim and then shared this information within his Discord community.',
+	links: [
+      {
+        href: 'img/screenshots/Vault1.png',
+        linkText: 'Copyright Strike by Dale',
+      },
+      {
+        href: 'https://youtu.be/aARR9d0Idfo?si=GppdgyhHStG8ZcW0&t=6860',
+        linkText: 'Vaultrep explains on joon\'s video (timestamp 1:54:20)',
+      },
+    ],
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
@@ -361,11 +407,11 @@ const entries = [
     body: 'LTG Rocks, a former moderator, chose to step away due to perceiving Dale\'s streams as becoming monotonous and diluted. In response, Dale resorted to doxing LTG Rocks on a livestream and publicly reprimanded him.',
 	links: [
       {
-        href: 'https://archive.org/details/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/LOW+TIER+GOD+DOXXES+ROCKS+P.1+AND+KICKS+CAT+I+THINK+YOU+DECIDE+MFs+%5BHBRGnwmo-h8%5D.mkv',
+        href: 'https://ia902203.us.archive.org/19/items/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/LOW%20TIER%20GOD%20DOXXES%20ROCKS%20P.1%20AND%20KICKS%20CAT%20I%20THINK%20YOU%20DECIDE%20MFs%20%5BHBRGnwmo-h8%5D.mp4',
         linkText: 'Dale Doxing Rocks Highlights by High Tier Gucci',
       },
       {
-        href: 'https://archive.org/details/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/LOW+TIER+GOD+DOXXES+ROXXS+PART+2.+(+FROM+ROCKS+PERSPECTIVE+)+%F0%9F%A4%AF+%5BnEpR-fBGEzI%5D.mkv',
+        href: 'https://ia802203.us.archive.org/19/items/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/LOW%20TIER%20GOD%20DOXXES%20ROXXS%20PART%202.%20%28%20FROM%20ROCKS%20PERSPECTIVE%20%29%20%F0%9F%A4%AF%20%5BnEpR-fBGEzI%5D.mp4',
         linkText: 'Doxing from Rock\'s POV',
       },
       {
@@ -373,8 +419,12 @@ const entries = [
         linkText: 'Full Vod Archive (11-13-2021)',
       },
       {
-        href: 'https://archive.org/details/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/Low+Tier+God\'s+favorite+little+troll+right+now+%5B3qALedUKIm0%5D.mp4',
+        href: 'https://ia802203.us.archive.org/19/items/low-tier-gods-sodium-chloride-festival-stream-fails-at-raiding-a-small-streamer-r-s-4-qjn-1-veu-0/Low%20Tier%20God%27s%20favorite%20little%20troll%20right%20now%20%5B3qALedUKIm0%5D.mp4',
         linkText: 'Dale files a false takedown notice of the videos',
+      },
+      {
+        href: 'img/screenshots/Gucci.png',
+        linkText: 'Dale files a false takedown notice of the videos #1',
       },
     ],
   },
@@ -391,16 +441,20 @@ const entries = [
       alt: 'american heart month ribbon',
       caption: '',
     },
-    body: 'Dale organized Tekken tournaments with the promise of a shoe giveaway, but instead, he banned participants without awarding any shoes.',
+    body: 'LTG has had a consistent habit of accepting payment from interested players for a set, intentionally losing to get it over with, and taking their money anyway. This often has resulted in chargebacks which ended in the donator\'s favor as LTG did not follow through on his end of the agreement. LTG is now attempting to counter people charging back when they pay for games and he just suicides the whole set by making this "contract\".',
 	links: [
-      // {
-      //   href: 'img/screenshots/AB.png',
-      //   linkText: 'Dale Posting about animal abuse 1 (censored)',
-      // },
-      // {
-      //   href: 'https://odysee.com/@Dr.BroadwayMk.III:a/LowTierGod-(LTG)-Dale---Stream-11_13_2021--eRYpxxJx_ro---FIXED-:d',
-      //   linkText: 'The Live Stream',
-      // },
+      {
+        href: 'img/screenshots/Scam1.png',
+        linkText: 'Dales website to make "contracts"',
+      },
+      {
+        href: '',
+        linkText: '(In progress) Dale organized Tekken tournaments with the promise of a shoe giveaway, but instead, he banned participants without awarding any shoes.',
+      },
+      {
+        href: '',
+        linkText: '(In progress) Dales PS5 Giveaway',
+      },
     ],
   },
   {
@@ -419,8 +473,25 @@ const entries = [
     body: 'On 15 September, 2021, Dalauan Sparrow continued his hours-long, days-spanning campaign against ROTKLLL for her crime of a tweet by posting revenge porn of her publicly to Twitter and semi-publicly to his Discord.',
 	links: [
       {
+        href: 'img/screenshots/rotkill1.png',
+        linkText: 'Rotkill Tweet #1',
+      },
+      {
+        href: 'img/screenshots/rotkill2.png',
+        linkText: 'Rotkill Tweet #2',
+      },
+      {
+        href: 'img/screenshots/rotkill3.png',
+        linkText: 'Rotkill Tweet #3',
+      },
+      {
+        href: 'img/screenshots/rotkill4.png',
+        linkText: 'Rotkill Tweet #4',
+      },
+      {
         href: 'https://www.bitchute.com/video/YTPFR5GV1gpX/',
         linkText: 'LowTierGod Stream Clip Archive',
+        mirror: 'https://www.youtube.com/watch?v=NgjZN8nSOVw'
       },
       {
         href: 'https://www.youtube.com/watch?v=V9zboeUocQw',
@@ -444,6 +515,14 @@ const entries = [
     body: 'Dale Wilson, known as LowTierGod, received a strike on his primary YouTube channel that prevented content creation. He started streaming on an alternate channel, but YouTube eventually banned both of his accounts for violating their policies.',
 	links: [
       {
+        href: 'img/screenshots/ltg-yt-ban1.png',
+        linkText: 'YT reason screenshot #1 (Screenshot)',
+      },
+      {
+        href: 'img/screenshots/ltg-yt-ban2.png',
+        linkText: 'YT reason screenshot #2 (Screenshot)',
+      },
+      {
         href: 'img/screenshots/ltg-yt-ban.png',
         linkText: 'Tweet by LowTierGod (Screenshot)',
       },
@@ -459,7 +538,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18e7',
-    categories: ['dox+'],
+    categories: ['dox'],
     color: 'black',
     faicon: 'flag',
     date: '2019-06-02',
@@ -495,7 +574,7 @@ const entries = [
       alt: 'trade mark icon',
       caption: '',
     },
-    body:  'On January 02, 2019, Dale Wilson doxed E-Lotion during a live stream, revealing his face and his address.',
+    body:  'Dale Wilson has trademarked "Low Tier God" with the belief that this would lead to the termination of YouTube channels. However, it\'s important to note that trademarks alone cannot be legally used to file copyright claims.',
 	links: [
       {
         href: 'https://uspto.report/TM/90481825',
@@ -513,6 +592,16 @@ const entries = [
       {
         href: 'https://twitter.com/Trevor__Belmont/status/1381343517235048450',
         linkText: 'Dale Privicy claims VaultRepXIV video, Tweet by Trevor Belmont',
+        
+      },
+      {
+        href: 'https://files.catbox.moe/xrbwf9.mp4',
+        linkText: 'Dale discusses how to take down TikTok content in the No Jumper interview.',
+        
+      },
+      {
+        href: 'img/screenshots/Trademark1.png',
+        linkText: 'Dale accidently shows his email on stream reveling recent reports (11-30-23),',
         
       },
     ],
@@ -537,7 +626,7 @@ const entries = [
         linkText: 'Video by GreyRaven15',
       },
       {
-        href: 'img/screenshots/GreyRaven.png',
+        href: 'img/screenshots/GreyRaven15.png', 
         linkText: 'Strike ScreenShot',
       },
     ],
@@ -694,7 +783,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
-    categories: ['Disgusting','Self injury'],
+    categories: ['disgusting','Self injury'],
     color: 'black',
     faicon: 'flag',
     date: '2023-01-10',
@@ -720,6 +809,32 @@ const entries = [
     color: 'black',
     faicon: 'flag',
     date: '2023-06-13',
+    title: 'Multiple Channel Takedown Attempts on Symphony Discord',
+    image: {
+      link: 'discord.gg/Symphony',
+      src: 'img/thumbpic/Symphony.png',
+      alt: 'groom',
+      caption: 'Symphony',
+    },
+    body:  'Constant attacks by accounts made by Covenant users with the intention of getting the server banned. Including a certain picture of Dale’s car outside his GNC, who he unjustly and dishonestly blamed on TrevorBelmont later',
+	links: [
+    {
+      href: 'https://link.storjshare.io/s/jwmg4l3v4vkrqxtzrcasfwjs45sa/demo-bucket%2F2433030-1e8a5d25d168cf7bd2ae5bb98b0a0542.mp4',
+      linkText: 'Mobilizing viewers to flag on stream',
+    },
+    {
+      href: 'img/screenshots/Symphony.png',
+      linkText: 'Mobilizing viewers to flag on discord',
+    },
+   
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
+    categories: ['dox'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2023-06-13',
     title: 'Multiple Channel Takedown Attempts on Joshuas Cornstar',
     image: {
       link: 'https://www.youtube.com/@JoshuasCornsta',
@@ -732,6 +847,10 @@ const entries = [
     {
       href: 'img/screenshots/Cornstar1.png',
       linkText: 'Dale mobilizing this followers to flag on discord.',
+    },
+    {
+      href: 'img/screenshots/Cornstar6.png',
+      linkText: 'Dale mobilizing this followers to flag on Facebook.',
     },
     {
       href: 'img/screenshots/Cornstar2.png',
@@ -750,6 +869,101 @@ const entries = [
       linkText: 'Cornstar beats copyright claim. #4',
     },
    
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
+    categories: ['Content Suppression'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2016-01-13',
+    title: 'Mobilizing viewers to mass downvote thumbpic',
+    image: {
+      link: 'https://www.youtube.com/@JoshuasCornsta',
+      src: 'img/thumbpic/PickachuAkuma.png',
+      alt: 'PickachuAkuma',
+      caption: 'PickachuAkuma',
+    },
+    body:  'PikachuAkuma, also known as JRodriguez, uploads another video showcasing his victory over LTG. In response, LTG deploys his followers to flag and give thumbs down to the video.',
+	links: [
+    {
+      href: 'img/screenshots/Movilizing1.png',
+      linkText: 'Twitter Screenshot 1.',
+    },
+    {
+      href: 'img/screenshots/Movilizing2.png',
+      linkText: 'Twitter Screenshot 2.',
+    },
+    {
+      href: 'img/screenshots/Cornstar3.png',
+      linkText: 'Twitter Screenshot 3.',
+    },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
+    categories: ['Content Suppression'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2016-05-28',
+    title: 'Dales First Twitch ban',
+    image: {
+      link: 'https://www.youtube.com/@JoshuasCornsta',
+      src: 'img/thumbpic/Twitch.png',
+      alt: 'Twitch Ban',
+      caption: 'Twitch Ban',
+    },
+    body:  'In a First-to-50 (FT50) challenge, a Chun-Li player named Punishere challenged Dale. Punishere secured victory in all 50 matches, with Dale (LTG) failing to secure a single win. In response, LTG reportedly directed his followers to mass-flag Punishere\'s Twitch channel, leading to a 24-hour suspension. Subsequently, Dale\'s own Twitch channel faced similar flagging and was subsequently suspended',
+	links: [
+    {
+      href: 'img/screenshots/1stTwitch1.png',
+      linkText: 'Tweet by LowtierGod',
+    },
+    {
+      href: 'img/screenshots/1stTwitch2.png',
+      linkText: 'Statment by Punishere',
+    },
+    {
+      href: 'img/screenshots/1stTwitch3.png',
+      linkText: 'Dale\'s reaction to the set. [WARNING Slurs Used] ',
+    },
+    {
+      href: 'img/screenshots/1stTwitch4.png',
+      linkText: 'Dale\'s reaction to the set 2.',
+    },
+    {
+      href: 'https://www.youtube.com/watch?v=4ykYcTeqsKI',
+      linkText: 'Full Set Archive by Punishere',
+    },
+    ],
+  },
+  {
+    id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
+    categories: ['Content Suppression'],
+    color: 'black',
+    faicon: 'flag',
+    date: '2017-04-24',
+    title: 'Dales doxxes Low Tier Stream Archive',
+    image: {
+      link: 'https://www.youtube.com/@JoshuasCornsta',
+      src: 'img/thumbpic/LTG-StreamArchive.png',
+      alt: 'LowTierGod Stream Archive',
+      caption: 'LowTierGod Stream Archive',
+    },
+    body:  'LowTierStream Archive was among Dale\'s initial archive channels. Dissatisfied with the existence of this channel, Dale allegedly tweeted out personal information, including the real name, phone number, and address of another individual twice.',
+	links: [
+    {
+      href: 'img/screenshots/streamarchives.jpg',
+      linkText: 'Dale doxxes Stream Archive on Twitter #1',
+    },
+    {
+      href: 'img/screenshots/streamarchives2.jpg',
+      linkText: 'Dale doxxes Stream Archive on Twitter. #2',
+    },
+    {
+      href: 'img/screenshots/streamarchives1.jpg',
+      linkText: 'Dale reaction to LowTierGod Stream Archive',
+    },
     ],
   },
 ];
