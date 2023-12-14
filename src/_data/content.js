@@ -371,7 +371,7 @@ const entries = [
     categories: ['dox'],
     color: 'black',
     faicon: 'unlock',
-    date: '2015-10-29',
+    date: '2020-10-29',
     title: 'Dale Wilson doxes VaultRep ',
     image: {
       link: '',
@@ -433,7 +433,7 @@ const entries = [
     categories: ['disgusting'],
     color: 'black',
     faicon: 'flag',
-    date: '2015-11-13',
+    date: '2020-09-04',
     title: 'Dale Wilson scam\s his viewers.',
     image: {
       link: '',
@@ -510,7 +510,7 @@ const entries = [
       link: '',
       src: 'img/thumbpic/YTbanned.png',
       alt: 'american heart month ribbon',
-      caption: '',
+      caption: 'Youtube',
     },
     body: 'Dale Wilson, known as LowTierGod, received a strike on his primary YouTube channel that prevented content creation. He started streaming on an alternate channel, but YouTube eventually banned both of his accounts for violating their policies.',
 	links: [
@@ -720,7 +720,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
-    categories: ['Content Suppression'],
+    categories: ['disgusting'],
     color: 'black',
     faicon: 'flag',
     date: '2018-07-03',
@@ -749,7 +749,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
-    categories: ['dox'],
+    categories: ['disgusting'],
     color: 'black',
     faicon: 'flag',
     date: '2023-09-17',
@@ -805,7 +805,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
-    categories: ['dox'],
+    categories: ['Content Suppression'],
     color: 'black',
     faicon: 'flag',
     date: '2023-06-13',
@@ -831,7 +831,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
-    categories: ['dox'],
+    categories: ['Content Suppression'],
     color: 'black',
     faicon: 'flag',
     date: '2023-06-13',
@@ -902,13 +902,13 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
-    categories: ['Content Suppression'],
+    categories: ['ban'],
     color: 'black',
     faicon: 'flag',
     date: '2016-05-28',
     title: 'Dales First Twitch ban',
     image: {
-      link: 'https://www.youtube.com/@JoshuasCornsta',
+      link: 'https://www.youtube.com/c/Punishere',
       src: 'img/thumbpic/Twitch.png',
       alt: 'Twitch Ban',
       caption: 'Twitch Ban',
@@ -939,7 +939,7 @@ const entries = [
   },
   {
     id: 's29c1de3-a454-488s-8c8d-8dbc15ad18es',
-    categories: ['Content Suppression'],
+    categories: ['Dox'],
     color: 'black',
     faicon: 'flag',
     date: '2017-04-24',
